@@ -1,0 +1,83 @@
+.topbar{
+    background-color: #ee2842;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    z-index: 4;
+    transition: all 1s ease;
+}
+
+.topbar .wrapper{
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topbar .wrapper .left{
+    display: flex;
+    align-items: center;
+}
+
+.topbar .itemContainer{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+
+.topbar .itemContainer .icon{
+    margin-right: 5px;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.topbar .logo{
+    font-size: 40px;
+    color: inherit;
+}
+
+.topbar .phoneNumber{
+    text-decoration: none;
+    color:inherit;
+}
+
+.topbar .mailID{
+    text-decoration: none;
+    color: inherit;
+}
+
+.topbar .right .hamburger{
+    width: 32px;
+    height: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.topbar .wrapper .right .hamburger span{
+    width: 100%;
+    height: 3px;
+    background-color: black;
+    transform-origin: left;
+    transition: all 1s ease;
+}
+
+.active{
+    background-color: black;
+    color: #ee2842;
+}
+
+.active .wrapper .right .hamburger .line1{
+    background-color: #ee2842;
+    transform: rotate(45deg);
+}
+
+.active .wrapper .right .hamburger .line2{
+    opacity: 0;
+}
+
+.active .wrapper .right .hamburger .line3{
+    background-color: #ee2842;
+    transform: rotate(-45deg);
+}

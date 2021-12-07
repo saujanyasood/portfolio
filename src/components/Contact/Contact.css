@@ -1,0 +1,95 @@
+.contact{
+    background-color: white;
+    display: flex;
+}
+
+.contact .left{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact .left img{
+    height: 90%;
+    overflow: hidden;
+    
+}
+
+.contact .right{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact .right h2{
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact .right .links{
+    width: 300px;
+    display: flex;
+    align-items: inherit;
+    justify-content: space-evenly;
+}
+
+.contact .right .links a{
+    display:flex;
+    flex-direction: column;
+    align-items: inherit;
+    text-decoration: none;
+    color: black;
+    margin: 15px;
+}
+
+.contact .right .links a img{
+    cursor: pointer;
+    height: 40px;
+    
+}
+
+
+.contact .right .links button h3{
+    font-size: 20px;
+}
+
+.contact .right form{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;
+    margin-top: 30px;
+}
+
+.contact .right form input{
+    width: 300px;
+    height: 30px;
+    font-size: 14px;
+    margin: 10px;
+}
+
+.contact .right form textarea{
+    width: 300px;
+    height: 200px;
+    font-size: 14px;
+    margin: 10px;
+}
+
+.contact .right form button{
+    width: 150px;
+    height: 40px;
+    background-color: lightblue;
+    border: none;
+    font-size:17px;
+    border-radius: 10px;
+    font-weight:bolder;
+    cursor:pointer;
+    margin: 10px;
+
+}
