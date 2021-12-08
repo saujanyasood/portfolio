@@ -64,12 +64,11 @@
 }
 
 .active{
-    background-color: black;
+    background-color: white;
     color: #ee2842;
 }
 
 .active .wrapper .right .hamburger .line1{
-    background-color: #ee2842;
     transform: rotate(45deg);
 }
 
@@ -78,6 +77,5 @@
 }
 
 .active .wrapper .right .hamburger .line3{
-    background-color: #ee2842;
     transform: rotate(-45deg);
 }
