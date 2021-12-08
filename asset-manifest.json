@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/saujanyasood/portfolio-website.git/static/css/main.c9243966.chunk.css",
-    "main.js": "/saujanyasood/portfolio-website.git/static/js/main.8765582b.chunk.js",
-    "main.js.map": "/saujanyasood/portfolio-website.git/static/js/main.8765582b.chunk.js.map",
+    "main.css": "/saujanyasood/portfolio-website.git/static/css/main.67dab5b3.chunk.css",
+    "main.js": "/saujanyasood/portfolio-website.git/static/js/main.0de6c568.chunk.js",
+    "main.js.map": "/saujanyasood/portfolio-website.git/static/js/main.0de6c568.chunk.js.map",
     "runtime-main.js": "/saujanyasood/portfolio-website.git/static/js/runtime-main.a5a01760.js",
     "runtime-main.js.map": "/saujanyasood/portfolio-website.git/static/js/runtime-main.a5a01760.js.map",
     "static/js/2.45191242.chunk.js": "/saujanyasood/portfolio-website.git/static/js/2.45191242.chunk.js",
     "static/js/2.45191242.chunk.js.map": "/saujanyasood/portfolio-website.git/static/js/2.45191242.chunk.js.map",
     "index.html": "/saujanyasood/portfolio-website.git/index.html",
-    "static/css/main.c9243966.chunk.css.map": "/saujanyasood/portfolio-website.git/static/css/main.c9243966.chunk.css.map",
+    "static/css/main.67dab5b3.chunk.css.map": "/saujanyasood/portfolio-website.git/static/css/main.67dab5b3.chunk.css.map",
     "static/js/2.45191242.chunk.js.LICENSE.txt": "/saujanyasood/portfolio-website.git/static/js/2.45191242.chunk.js.LICENSE.txt",
     "static/media/algorithm.d2e075b4.png": "/saujanyasood/portfolio-website.git/static/media/algorithm.d2e075b4.png",
     "static/media/bear.a24c0ecc.png": "/saujanyasood/portfolio-website.git/static/media/bear.a24c0ecc.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.a5a01760.js",
     "static/js/2.45191242.chunk.js",
-    "static/css/main.c9243966.chunk.css",
-    "static/js/main.8765582b.chunk.js"
+    "static/css/main.67dab5b3.chunk.css",
+    "static/js/main.0de6c568.chunk.js"
   ]
 }
