@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.67dab5b3.chunk.css",
+    "main.css": "/portfolio-website/static/css/main.e01a293a.chunk.css",
     "main.js": "/portfolio-website/static/js/main.0de6c568.chunk.js",
     "main.js.map": "/portfolio-website/static/js/main.0de6c568.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.5423ea9a.js",
@@ -8,7 +8,7 @@
     "static/js/2.45191242.chunk.js": "/portfolio-website/static/js/2.45191242.chunk.js",
     "static/js/2.45191242.chunk.js.map": "/portfolio-website/static/js/2.45191242.chunk.js.map",
     "index.html": "/portfolio-website/index.html",
-    "static/css/main.67dab5b3.chunk.css.map": "/portfolio-website/static/css/main.67dab5b3.chunk.css.map",
+    "static/css/main.e01a293a.chunk.css.map": "/portfolio-website/static/css/main.e01a293a.chunk.css.map",
     "static/js/2.45191242.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.45191242.chunk.js.LICENSE.txt",
     "static/media/algorithm.d2e075b4.png": "/portfolio-website/static/media/algorithm.d2e075b4.png",
     "static/media/bear.a24c0ecc.png": "/portfolio-website/static/media/bear.a24c0ecc.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.5423ea9a.js",
     "static/js/2.45191242.chunk.js",
-    "static/css/main.67dab5b3.chunk.css",
+    "static/css/main.e01a293a.chunk.css",
     "static/js/main.0de6c568.chunk.js"
   ]
 }
