@@ -8,7 +8,7 @@ export default function topBar(props) {
         <div className={"topbar " + (props.onOpen && "active")}>
             <div class="wrapper">
                 <div className="left">
-                    <a class="logo" href="#intro"></a>
+                    {/* <a class="logo" href="#intro"></a> */}
                     <div className="itemContainer">
                         <PersonIcon className="icon"/>
                         <span><a href="tel:+91 93541 23773" className="phoneNumber">+91 93541 23773</a></span>
